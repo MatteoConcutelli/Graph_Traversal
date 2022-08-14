@@ -1,2 +1,2 @@
 # Graph_Traversal
-Graphic visit algorithms
+Graph visit algorithms
